@@ -1,4 +1,4 @@
 # repo1
 Description 1
 
-Day 42ss
+Day 42s
